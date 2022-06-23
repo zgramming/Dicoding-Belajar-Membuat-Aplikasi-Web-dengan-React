@@ -1,0 +1,111 @@
+.p1 {
+  padding: 1em;
+}
+.p2 {
+  padding: 2em;
+}
+.p3 {
+  padding: 3em;
+}
+.p4 {
+  padding: 4em;
+}
+.p5 {
+  padding: 5em;
+}
+
+.px-1 {
+  padding: 0 1em;
+}
+.px-2 {
+  padding: 0 2em;
+}
+.px-3 {
+  padding: 0 3em;
+}
+.px-4 {
+  padding: 0 4em;
+}
+.px-5 {
+  padding: 0 5em;
+}
+
+.py-1 {
+  padding: 1em 0;
+}
+.py-2 {
+  padding: 2em 0;
+}
+.py-3 {
+  padding: 3em 0;
+}
+.py-4 {
+  padding: 4em 0;
+}
+.py-5 {
+  padding: 5em 0;
+}
+
+.m1 {
+  margin: 1em;
+}
+.m2 {
+  margin: 2em;
+}
+.m3 {
+  margin: 3em;
+}
+.m4 {
+  margin: 4em;
+}
+.m5 {
+  margin: 5em;
+}
+
+.mx-1 {
+  margin: 0 1em;
+}
+.mx-2 {
+  margin: 0 2em;
+}
+.mx-3 {
+  margin: 0 3em;
+}
+.mx-4 {
+  margin: 0 4em;
+}
+.mx-5 {
+  margin: 0 5em;
+}
+
+.my-1 {
+  margin: 1em 0;
+}
+.my-2 {
+  margin: 2em 0;
+}
+.my-3 {
+  margin: 3em 0;
+}
+.my-4 {
+  margin: 4em 0;
+}
+.my-5 {
+  margin: 5em 0;
+}
+
+.mb-1 {
+  margin-bottom: 1em;
+}
+.mb-2 {
+  margin-bottom: 2em;
+}
+.mb-3 {
+  margin-bottom: 3em;
+}
+.mb-4 {
+  margin-bottom: 4em;
+}
+.mb-5 {
+  margin-bottom: 5em;
+}
