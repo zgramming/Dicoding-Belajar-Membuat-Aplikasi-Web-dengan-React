@@ -52,10 +52,10 @@ body {
 .container-active-todo,
 .container-archive-todo,
 .container-filter-todo {
+  flex-direction: column;
   width: 100%;
   margin: 32px 0;
   display: flex;
-  flex-direction: column;
   border: 1px solid #ffffff;
   border-radius: 10px;
   box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
@@ -72,6 +72,7 @@ body {
 .box-active-todo {
   flex-basis: 25%;
   min-height: 250px;
+  margin: 8px 0;
 }
 
 .btn-submit {
@@ -120,6 +121,8 @@ body {
 }
 
 .card {
+  display: flex;
+  flex-direction: column;
   box-shadow: 0 0 3px rgba(255, 255, 255, 0.25);
   border-radius: 10px;
   margin: 8px;

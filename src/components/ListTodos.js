@@ -6,7 +6,7 @@ function ListTodos({ todos, deleteTodos, archiveTodos, isArchived = false }) {
       <h1 className="text-white">
         {isArchived ? "Aktifitas Arsip" : "Aktifitas Aktif"}
       </h1>
-      {todos.length == 0 ? (
+      {todos.length === 0 ? (
         <center className="text-white text-bold">
           {isArchived
             ? "Aktifitas Arsip Tidak Ditemukan"

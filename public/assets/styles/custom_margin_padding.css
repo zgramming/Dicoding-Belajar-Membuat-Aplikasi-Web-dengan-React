@@ -94,6 +94,28 @@
   margin: 5em 0;
 }
 
+.mt-auto {
+  margin-top: auto;
+}
+.mt-1 {
+  margin-top: 1em;
+}
+.mt-2 {
+  margin-top: 2em;
+}
+.mt-3 {
+  margin-top: 3em;
+}
+.mt-4 {
+  margin-top: 4em;
+}
+.mt-5 {
+  margin-top: 5em;
+}
+
+.mb-auto {
+  margin-bottom: auto;
+}
 .mb-1 {
   margin-bottom: 1em;
 }
