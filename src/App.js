@@ -2,8 +2,7 @@ import React from "react";
 import ContainerFilter from "./components/ContainerFilter";
 import FormTodo from "./components/FormTodos";
 import ListTodos from "./components/ListTodos";
-
-const todos = [];
+import { getInitialData } from "./utils/index";
 
 class App extends React.Component {
   constructor(props) {
@@ -18,7 +17,7 @@ class App extends React.Component {
 
     /// Initialize State
     this.state = {
-      todos: todos,
+      todos: getInitialData(),
       filteredTodos: [],
       query: "",
     };
